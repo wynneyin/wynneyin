@@ -1,4 +1,4 @@
-## 山大人就这生活 👋
+## 本来就老实已老实 👋
 
 <!--
 **wynneyin/wynneyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
